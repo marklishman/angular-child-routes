@@ -1,4 +1,4 @@
-# angular-2-router
+# angular-router
 
 Routing and navigation with Angular and TypeScript.
 
